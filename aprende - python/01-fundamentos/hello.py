@@ -11,7 +11,7 @@ print (type('Hola mundo')) #type() nos permite saber el tipo de dato que es una 
 """
 este es un comentario de varias
 lineas
-""" 
+"""
 
 
 #Consultamos tipo de dato
