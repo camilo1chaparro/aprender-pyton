@@ -8,10 +8,7 @@ print ( 'Hola mundo')
 print (type('Hola mundo')) #type() nos permite saber el tipo de dato que es una variable
 
 
-"""
-este es un comentario de varias
-lineas
-"""
+# Este es un comentario de varias líneas.
 
 
 #Consultamos tipo de dato
