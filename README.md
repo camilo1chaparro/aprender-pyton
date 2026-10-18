@@ -1,6 +1,12 @@
 ## ¿Para qué es este repositorio? 
 
-Este reporsitorio fue creado para ser una guia personal en el lenguaje de programación python y aprender del lenguaje
+Este reporsitorio fue creado para ser una guia personal para aprender del lenguaje python. 
+
+## 💡 ¿Por qué Python?
+- Sintaxis legible, parecida al inglés
+- Lenguaje interpretado y de tipado dinámico
+- Enorme comunidad y ecosistema de librerías
+- Multiplataforma (Windows, macOS, Linux)
 
 
 ## 🐍 ¿Para qué se usa Python?
