@@ -49,3 +49,41 @@ print (fruits)
 
 fruits.remove("strawberry") #Eliminando un elemento de la lista
 print (fruits)
+
+#Eliminando elementos de la lista usando pop() y del() y vaciar los elementos de la lista usando clear()
+colors = ['red', 'green', 'blue', 'yellow', 'purple']
+colors.pop() #Eliminando el último elemento de la lista
+print (colors)
+
+colors.pop(1) #Eliminando el segundo elemento de la lista
+print (colors)
+
+my_numero_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+del my_numero_list[0] 
+print (my_numero_list)
+
+del my_numero_list[1:3] 
+print (my_numero_list)
+
+my_numero_list.clear() #Vacia todos los elementos de la lista
+print (my_numero_list)
+
+
+my_num_list_copy = my_int_list.copy() #Copia de una lista
+print (my_num_list_copy)
+
+#Encontrando elementos en una lista con index() que devuelve el índice de un elemento en la lista
+my_nombre_list = ['Juan', 'Camilo', 'Chaparro']
+print (my_nombre_list.index('Camilo')) #Encontrando el índice de un elemento en la lista
+
+ages = [22, 25, 30, 35, 40]
+print (ages.index(30)) #Encontrando el índice de un elemento en la lista
+
+my_letras_list = ['A', 'B', 'C', 'D', 'E']
+my_letras_list.reverse() #Invierte el orden de los elementos en la lista
+print (my_letras_list)
+
+my_letras_list.sort() #Ordena los elementos de la lista en orden ascendente
+print (my_letras_list)
+my_letras_list.sort(reverse=True) #Ordena los elementos de la lista en orden descendente
+print (my_letras_list)
