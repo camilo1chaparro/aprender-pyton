@@ -20,7 +20,8 @@ Este reporsitorio fue creado para ser una guia personal para aprender del lengua
 | **Cloud, DevOps y Ciberseguridad**    | Gestión de infraestructura en la nube, automatización de despliegues y herramientas de pentesting. | SDKs Cloud (AWS/GCP/Azure), herramientas de red |
 
 
-## Ejercicios en python 
+## 🧩 Ejercicios en python 
 
-Se agregan ejercicios con enunciados y resueltos. 
+Colección de ejercicios con su enunciado y solución. 
+
 [ejercicios](./ejercicios/)
