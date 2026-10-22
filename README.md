@@ -25,3 +25,14 @@ Este reporsitorio fue creado para ser una guia personal para aprender del lengua
 Colección de ejercicios con su enunciado y solución. 
 
 [ejercicios](./ejercicios/)
+
+
+## 📁 Estructura de pryecto 
+
+aprender-pyton/
+├── 01-fundamentos/          
+├── docs/                    
+│   ├── README.md
+│   └── 00_funciones_python.md
+├── ejercicios/              
+└── README.md                
