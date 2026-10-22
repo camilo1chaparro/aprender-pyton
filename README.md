@@ -36,7 +36,7 @@ aprender-pyton/
 │   ├── 01_variables.py
 │   ├── 02_operadores.py
 │   ├── 03_string.py 
-│   ├── 03_lists.py 
+│   ├── 04_lists.py 
 │   └── 05_tuples.py 
 ├── docs/                    
 │   └── 00_funciones_python.md
