@@ -27,13 +27,18 @@ Colección de ejercicios con su enunciado y solución.
 [ejercicios](./ejercicios/)
 
 
-## 📁 Estructura de pryecto 
+## 📁 Estructura de repositorio  
 
 ```text
 aprender-pyton/
-├── 01-fundamentos/          
+├── 01-fundamentos/  
+│   ├── 00_hello.py
+│   ├── 01_variables.py
+│   ├── 02_operadores.py
+│   ├── 03_string.py 
+│   ├── 03_lists.py 
+│   └── 05_tuples.py 
 ├── docs/                    
-│   ├── README.md
 │   └── 00_funciones_python.md
 ├── ejercicios/              
 └── README.md                
