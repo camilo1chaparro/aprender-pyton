@@ -29,6 +29,7 @@ Colección de ejercicios con su enunciado y solución.
 
 ## 📁 Estructura de pryecto 
 
+```text
 aprender-pyton/
 ├── 01-fundamentos/          
 ├── docs/                    
@@ -36,3 +37,4 @@ aprender-pyton/
 │   └── 00_funciones_python.md
 ├── ejercicios/              
 └── README.md                
+```
